@@ -1,0 +1,11 @@
+framework module CollectaPushSDK {
+  umbrella header "CollectaPushSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module CollectaPushSDK.Swift {
+    header "CollectaPushSDK-Swift.h"
+    requires objc
+}
