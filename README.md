@@ -4,8 +4,8 @@
 
 # Collecta Push SDK
 
-[![Version](https://img.shields.io/cocoapods/v/CollectaSdk.svg?style=flat)](https://cocoapods.org/pods/CollectaPushSDK)
-[![Platform](https://img.shields.io/cocoapods/p/CollectaSdk.svg?style=flat)](https://cocoapods.org/pods/CollectaPushSDK)
+[![Version](https://img.shields.io/cocoapods/v/CollectaPushSDK.svg?style=flat)](https://cocoapods.org/pods/CollectaPushSDK)
+[![Platform](https://img.shields.io/cocoapods/p/CollectaPushSDK.svg?style=flat)](https://cocoapods.org/pods/CollectaPushSDK)
 
 ## Requirements
 
